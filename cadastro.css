@@ -12,14 +12,14 @@ html{
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 }
-.name{
+.style-input{
 	display: block;
 	border: 2px solid black;
 	width: 300px;
 	height: 30px;
 	border-radius: 6px;
 }
-#move{
+#body-form{
 	display: flex;
 	justify-content: center;
 	background-color: orange;
@@ -36,6 +36,7 @@ html{
 	border-radius: 6px;
 	height: 30px;
 	font-size: 20px;
+	width: 300px;
 }
 #id{
 	display: flex;
@@ -47,12 +48,19 @@ html{
 	width: 100px;
 	position: relative;
 	left: 105px;
-	bottom: 28px;
+	bottom: 2px;
 }
 #register-name{
 	text-transform: uppercase;
-	position: relative;
-	left: 70px;
+	display: flex;
+	justify-content: center;
 	font-family: "Open Sans Condensed";
 	font-size: 50px;
+}
+#login-name{
+	text-transform: uppercase;
+	font-family: "Open Sans Condensed";
+	font-size: 50px;
+	display: flex;
+	justify-content: center;
 }
