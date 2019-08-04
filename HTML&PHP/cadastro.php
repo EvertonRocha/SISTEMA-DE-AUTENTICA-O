@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>Cadastro</title>
-		<link rel="icon" href="../IMAGES/padlock.png">
+		<link rel="icon" href="../IMAGES/person-register.png">
 		<link rel="stylesheet" type="text/css" href="../CSS/reset.css">
 		<link rel="stylesheet" type="text/css" href="../CSS/cadastro.css">
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap" rel="stylesheet">
